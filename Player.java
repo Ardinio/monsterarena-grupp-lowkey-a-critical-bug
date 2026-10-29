@@ -5,7 +5,7 @@ public class Player {
         name = "Dracula";
     }
 
-    String getname() {
+    String getName() {
         return name;
     }
 }
